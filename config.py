@@ -19,8 +19,7 @@ LOG_GROUP_ID = 7648822500
 OWNER_ID = 7648822500
 
 # Assistant string session (Pyrogram)
-STRING1 = getenv("", "1BVtsOIMBu7HeqCdOl6j_045bCub9Iz8xigCi_p1ZHrtrgUGJr7UEWA2QoI4BCVdFTwgJRyaP5dIObD-mExVYraJU81nn2CHFnMEnrA5dcKcPR_zfH6zMV2b-NaegVzOEP93dT4RolHpOxNpPn24Ah4EEn9SZIZyXaleI55fPXXn7uiFckazg_f9oElVRpXPG7tRuhd74xbzcwnv5_S1p42AAi5FE0q2MLi_zmgXcZcPUxrztcqy0wxm3N10uDYDry3B1XNv8S05KqSutkNqnscnZPPIYTdeyFJdDklJ0MPd5_7_dP6qNSC9onHliFDgleu5Q8BdU-BD0dViSmZy1skcxPDey9uE=")
-1"1BVtsOIMBu7HeqCdOl6j_045bCub9Iz8xigCi_p1ZHrtrgUGJr7UEWA2QoI4BCVdFTwgJRyaP5dIObD-mExVYraJU81nn2CHFnMEnrA5dcKcPR_zfH6zMV2b-NaegVzOEP93dT4RolHpOxNpPn24Ah4EEn9SZIZyXaleI55fPXXn7uiFckazg_f9oElVRpXPG7tRuhd74xbzcwnv5_S1p42AAi5FE0q2MLi_zmgXcZcPUxrztcqy0wxm3N10uDYDry3B1XNv8S05KqSutkNqnscnZPPIYTdeyFJdDklJ0MPd5_7_dP6qNSC9onHliFDgleu5Q8BdU-BD0dViSmZy1skcxPDey9uE="
+STRING1 = getenv("", "1BVtsOLcBu5WABPCO2dD4LYiaaBP-8F_t1M5fzHdvGZGicBAlHxD9w4UYS_49klTJ9286V2wAW_XxLmpikm6ukPCI4SjhpAy_YsZwpMZCh6SZcQIuHQSIY0f0Rn-Sp1nyukPbd27UIj91yBXsVllFqbEyuyc8U82DmA2qA8WuWfbFBanRNf5mJgzkV1OIO5e1brwxo5YV5ABcTQnrVGUpou1HyoBTxpPTpBS5U_rsF5dTxeWnkgZ3dlSFXtvAlVXS9YPyWfNub_y8hPQw-_QsCS4TskhxK_NRRogQAEY_3dvZJ0BKI8NU71-xerNXeQd3ZoRg-MmxJOo87c0DmjFuiDT2sk63i"
 # Heroku deployment (optional)
 HEROKU_APP_NAME = getenv("music890")
 HEROKU_API_KEY = "HRKU-AASPwj_e-UxMsoC_B0IjrBrTfyI-kwThSQK3cF5VQq3A_wifkcHiep43"
@@ -28,7 +27,7 @@ HEROKU_API_KEY = "HRKU-AASPwj_e-UxMsoC_B0IjrBrTfyI-kwThSQK3cF5VQq3A_wifkcHiep43"
 # Upstream Repo
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/rishabhops/alice")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GIT_TOKEN = getenv("GIT_TOKEN", None)  # For private repo
+GIT_TOKEN = getenv("GIT_TOKEN", None)  # For private repoNaegVzOEP93dT4RolHpOxNpPn24Ah4EEn9SZIZyXaleI55fPXXn7uiFckazg_f9oElVRpXPG7tRuhd74xbzcwnv5_S
 
 # Support links
 SUPPORT_CHANNEL = "https://t.me/English_speaking890"
